@@ -90,7 +90,7 @@ while angka < 10:
 else:
     print('nilai angka diakhir while adalah', angka)
 
-contoh for loop
+# contoh for loop
 for i in range(1,10):
     if i == 6:
         print("nilai i adalah",6)
